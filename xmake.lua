@@ -13,3 +13,7 @@ includes("Prototype")
 
 -- 结构型模式
 includes("Adapter")
+
+includes("Bridge")
+
+includes("Decorator")
